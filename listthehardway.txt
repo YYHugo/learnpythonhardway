@@ -1,0 +1,65 @@
+CHARACTERS AND THEIR NAMES
+
+^ caret
+This symbol is used when python is prompting an error and it's location shows
+the very-high possible error
+
+" double-quote
+' single-quote
+Used for string, like on 'print' finction
+
+# octhorpe
+A line comment. After this symbol, on a line everything is ignored
+
++ plus
+add 2 number values/concatenate 2 strings
+
+- subtract
+subtract 2 numbers
+
+/ slash
+Divide 2 numbers
+
+% modulus (in normal writing percent)
+Get the non divisible part of a division, eg: 15%11 = 4
+
+* asterisk
+Multiply 2 numbers
+
+< Less-than
+> Greater-thahn
+<= Less-than-equal
+>=greater-than-equal
+== equal-to
+compare 2 numbers. If statement is right, return True
+
+= attribution
+Give a variable some value
+
+_ underscore character
+do nothing, just give a separator on variables' names
+
+"""
+The whole text inside three double-qoutes are used """
+
+Escape sequences
+\\ backslash
+\' single quote on string
+\" double quote on string
+\a Bell
+\b backspace
+\f formfeed
+\n linefeed
+\N{name} character named 'name' in unicode database
+\r carriage return
+\t Horizontal tab
+\uxxxx character with 16-bit hex valie xxxx (unicode only)
+\UxxxxXXXX character with 32 bit hex value xxxxXXXX (unicode only)
+\v vertical tab
+\ooo character with octal value 'ooo'
+\xhh character with hex value 'hh'
+
+USEFUL STUFF
+Command "pydoc"
+
+When you import something you, IMPORT modules (like libraries in C)
