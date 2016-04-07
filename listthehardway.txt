@@ -63,3 +63,8 @@ USEFUL STUFF
 Command "pydoc"
 
 When you import something you, IMPORT modules (like libraries in C)
+
+
+QUESTIONS
+ex32.py
+Could you have avoided that for-loop entirely on line 22 and just assigned range(0,6) directly to 'elements'?
