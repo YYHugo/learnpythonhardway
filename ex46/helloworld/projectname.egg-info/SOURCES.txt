@@ -1,0 +1,9 @@
+setup.py
+bin/jesusMYscript
+printARGS/__init__.py
+printARGS/hello.py
+projectname.egg-info/PKG-INFO
+projectname.egg-info/SOURCES.txt
+projectname.egg-info/dependency_links.txt
+projectname.egg-info/requires.txt
+projectname.egg-info/top_level.txt
